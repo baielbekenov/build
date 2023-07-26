@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0bfe0d7.css",
+    "main.js": "/static/js/main.851d5a32.js",
+    "static/media/for_slider_3.png": "/static/media/for_slider_3.122a8f967f2fac7cc1b2.png",
+    "static/media/for_slider_4.png": "/static/media/for_slider_4.1a3bbdc7233280785c86.png",
+    "static/media/for_slider_1.png": "/static/media/for_slider_1.4a654e4671f0b5e98ff8.png",
+    "static/media/history_img.png": "/static/media/history_img.cf6bc9a1d2f8a2b69d36.png",
+    "static/media/for_slider_2.png": "/static/media/for_slider_2.78082a0baca10200c9c2.png",
+    "static/media/for_slider_5.png": "/static/media/for_slider_5.a011032c87b5c7570999.png",
+    "static/media/animation_for_bigDisplay.png": "/static/media/animation_for_bigDisplay.428850ba8ceda674b4de.png",
+    "static/media/bac-d_2.jpg": "/static/media/bac-d_2.6f914009ae86caad38df.jpg",
+    "static/media/animation_img.png": "/static/media/animation_img.2cb0990596e59128f499.png",
+    "static/media/tazalyk.jpg": "/static/media/tazalyk.6cc1c3d1b34af9cf6ae2.jpg",
+    "static/media/roads.jpg": "/static/media/roads.3c51aad9ffe304c5f9e2.jpg",
+    "static/media/ornament.png": "/static/media/ornament.b28010baf05b6b047808.png",
+    "static/media/telega.svg": "/static/media/telega.8958a9088f1e8a4c0d2bec434d9ba41e.svg",
+    "static/media/whatApp.svg": "/static/media/whatApp.d8483b712f031f7ecef4d9d27845bc22.svg",
+    "static/media/insta.svg": "/static/media/insta.0e88b15d20cfd0ada21ef06a95e53d9b.svg",
+    "static/media/Icon_comment.svg": "/static/media/Icon_comment.62eb3471922e8e37e1022a60c6bbc165.svg",
+    "static/media/krestik.svg": "/static/media/krestik.e3ce3d69b785ad987a474af2265a9976.svg",
+    "static/media/main_icon.svg": "/static/media/main_icon.f7a0fa959930894dc591bfd5d698fbc0.svg",
+    "static/media/facebook.svg": "/static/media/facebook.99b12f8f19535a78e2dddf426282f880.svg",
+    "index.html": "/index.html",
+    "static/media/users_comment.svg": "/static/media/users_comment.24da6454b338591088bceb0987c1635a.svg",
+    "static/media/btn_right.svg": "/static/media/btn_right.b4de2138fffafb11d66929edd3248f28.svg",
+    "static/media/cross_img.svg": "/static/media/cross_img.cd8a2343be533e13bba6372bb18c37e6.svg",
+    "static/media/btn_left.svg": "/static/media/btn_left.e8b4154b4bc214dbda1b2401ae7eb1d9.svg",
+    "static/media/Search_bnt.svg": "/static/media/Search_bnt.8d36133347e487168172307b334318ef.svg",
+    "static/media/Search.svg": "/static/media/Search.3ac5ab0eca78ccda0f1b06472f521301.svg",
+    "static/media/Icon.svg": "/static/media/Icon.53a14d6a0ee07c1dc205859b15147822.svg",
+    "static/media/Cross.svg": "/static/media/Cross.47bd859cccce29626b5a219dd4f06a2c.svg",
+    "main.a0bfe0d7.css.map": "/static/css/main.a0bfe0d7.css.map",
+    "main.851d5a32.js.map": "/static/js/main.851d5a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0bfe0d7.css",
+    "static/js/main.851d5a32.js"
+  ]
+}
